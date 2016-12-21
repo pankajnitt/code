@@ -1,3 +1,6 @@
+//Given an array A[] of n numbers and another number x, 
+//determine whether or not there exist two elements in A whose sum is exactly x.
+// binary search method
 #include <iostream>
 #include<vector>
 #include<algorithm>
